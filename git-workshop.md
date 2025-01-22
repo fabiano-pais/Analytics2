@@ -19,7 +19,7 @@ Before you start, you should have the following things set up:
 > The first thing we're going to do is to create an empty remote repository using GitHub.  We'll use this repository for practice purposes, so be sure of making it *private*. You'll be also asked to create a *name*, which should be something you can easily track. Also, allow GitHub to create a README file. 
 > We suggest a (later) carefull reading about licenses.
 
-canNow that you've created your 1st repository, we'll clone it on your local machine. Note that you may clone any public repository in the exact same way.
+Now that you've created your 1st repository, we'll clone it on your local machine. Note that you may clone any public repository in the exact same way.
 
 > At your new repository, find and click at the green box where it says "<>Code". A dropdown menu box will appear, and you'll be able to copy the HTTPS adress.
 
